@@ -1,0 +1,2 @@
+fgets는 (함수이름,sizeof(함수이름),stdin)사용
+fputs는 (함수이름,stdout)사용
