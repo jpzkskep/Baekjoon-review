@@ -1,0 +1,3 @@
+compare 함수 input1,input2는 포인터이다
+길이가 다르면 사전 순으로(strcmp)
+중복 제거하며 출력할때 strcmp쓰기

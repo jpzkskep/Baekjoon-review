@@ -1,0 +1,7 @@
+struct 의 x,y에 배열 안씀
+point jum을 구조체를 담을 배열로 설정
+scanf입력방식 변경
+qsort호출 변경
+마지막 출력 형식 변경
+compare함수 받은 포인터를 point구조체 포인터로 변경
+compare함수 if else if else 변경
