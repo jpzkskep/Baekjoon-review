@@ -5,3 +5,7 @@ qsort호출 변경
 마지막 출력 형식 변경
 compare함수 받은 포인터를 point구조체 포인터로 변경
 compare함수 if else if else 변경
+
+qsort한줄만쓰고 jum을 통째로 정렬
+int형 말고 둘다 point로
+num1.x num2.x등 비교 해서 return
