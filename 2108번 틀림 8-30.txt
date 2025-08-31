@@ -1,0 +1,8 @@
+compare가 int값을 받으므로
+n,count,max_count 모두 int로 받기
+count에 음수도 들어가므로 배열 늘리기
+첫 for문에서 count도 함꼐 계산
+최빈값 빈도수 수정
+
+num int로 sum은 long long으로
+average는 sum을 형변환후 계산
