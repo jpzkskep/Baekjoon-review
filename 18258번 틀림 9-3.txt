@@ -1,0 +1,2 @@
+point대신 front,rear사용
+(0시작,-1시작)
