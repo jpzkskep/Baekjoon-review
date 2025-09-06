@@ -1,0 +1,22 @@
+num배열 크기 넉넉하게
+sum 자료형 변경
+max_count 초기화 다르게
+idx초기화
+average자료형 다르게
+count[num[i]]++;  수정 (음수가 나오면 안됨)
+산술평균 수정
+최빈값 수정
+
+remain필요없음
+산술평균은 형변환후 나누면됨
+same[idx++]=count[i];	잘못됨
+그다음 if부분 틀림
+다시 정렬필요없음
+
+최빈값 범위 둘다 i<8001
+same[idx++]=값이 틀림(-해야됨)
+idx가 1보다 클때
+most가 same[](2번째로 작은값)
+else 는 same[0]
+average>=0일때 average+0.5를 long long형변환후 출력
+else 에서는  -0.5
