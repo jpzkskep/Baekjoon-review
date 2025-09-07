@@ -1,0 +1,9 @@
+qsort사용
+start,end있는 구조체 배열 선언
+정렬후 정렬된 회의들을 순서대로 확인
+
+struct에서 배열빼기
+main에서 구조체 배열 선언하기
+그에따라 scanf도 수정
+그에따라 qsort첫번째도 수정
+compare함수 if부분수정
