@@ -1,0 +1,13 @@
+search함수 삭제하기
+m long long으로
+max,result 삭제
+순차로 가장 높은 나무 찾기
+이분탐색 추가(함수말고)
+
+while 안에
+잘린 나무의 총길이를 저장할 변수 추가
+for만들어서
+나무의 길이가 mid보다 높으면 잘림
+for밖에 sum이 m보다 크거나 같으면
+result가 mid이고 start을 mid에서 1증가 시킴
+아니면 mid-1임
