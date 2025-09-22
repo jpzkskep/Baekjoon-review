@@ -11,3 +11,6 @@ for만들어서
 for밖에 sum이 m보다 크거나 같으면
 result가 mid이고 start을 mid에서 1증가 시킴
 아니면 mid-1임
+
+result에 sum저장 안함
+sum=이 아니라 +=
